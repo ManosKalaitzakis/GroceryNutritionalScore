@@ -1,4 +1,7 @@
+
 # GroceryNutritionalScore
+![Nutrition Dashboard](NutritionalDashboard.png)
+
 🗂️ fetch_categories.py — Discover Product Categories
 
 Role:
